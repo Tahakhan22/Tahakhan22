@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tahakhan22
-- ✅ I can make solidity progmrams for you.
+- ✅ I can make solidity programs for you.
 - ✅ I am upgrading my skills day by day.
 
 - 🌱 I’m currently learning Solidity 
